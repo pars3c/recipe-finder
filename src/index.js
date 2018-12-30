@@ -5,8 +5,7 @@ import rootReducer from './reducers/recipesReducer';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 
-const store = createStore(rootReducer)
-store.subscribe(() => console.log('store', store.getState()));
+const store = createStore(rootReducer);
 
 ReactDOM.render(
   <Provider store={ store }>
