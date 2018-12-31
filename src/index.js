@@ -6,6 +6,7 @@ import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 
 const store = createStore(rootReducer);
+//store.subscribe(() => console.log('store', store.getState()));
 
 ReactDOM.render(
   <Provider store={ store }>
