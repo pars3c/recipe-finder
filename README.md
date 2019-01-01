@@ -1,44 +1,62 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Recipe Finder App
 
-## Available Scripts
+Recipe Finder App is a ReactJS learning project that uses [Recipe Puppy](http://www.recipepuppy.com/about/api/) API that finds recipes based on the **Dish name** and **Ingredients**, favorite recipes can be marked.
 
-In the project directory, you can run:
+## Technologies used
+Node, ReactJS, Javascript, HTML, CSS and Bootstrap
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/aderito.jpg" alt="Aderito Xavier" width="200" height="300" />
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Hey everyone! My name is Adérito Xavier ([@pars3c](https://github.com/pars3c)), I am a Full Stack Developer, and a Data Scientist on my freetime.
 
-### `npm test`
+My passion for programming started when I was 18 years old, when I read '2001 A Space Odyssey' for the the first time. It captivated me to think about the future and evolution.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Since then I never stopped fighting for that passion. Right now my main focus is on becoming Data Scientist.
 
-### `npm run build`
+## Check my Projects, Blog Posts and Career in:
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/linkedin-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
+</a>
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a href="https://github.com/pars3c">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/github-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
+</a>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a href="https://datacamp.com/profile/aderito-xavier">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/data-camp-icon.png" alt="Aderito Xavier" width="70" height="50" style="margin-right:30px"/>
+</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<a href="https://www.hackerrank.com/aderito_xavier">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/hackerrank-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
+</a>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<a href="https://www.kaggle.com/wydtron/">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/kaggle-icon.png" alt="Aderito Xavier" width="100" height="50" style="margin-right:30px"/>
+</a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://medium.com/@aderito_xavier">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/medium-icon.jpg" alt="Aderito Xavier" width="80" height="50" style="margin-right:30px"/>
+</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Instructions
+ * Open the terminal in the folder of preference for the project
+ * Clone the git repo `git clone https://github.com/pars3c/recipe-finder`
+ * Go to the project folder in your terminal
+ * Run `npm install` and wait until it's completed
+ * Now run `npm start`, and voilá!
+
+
+## Objectives of the this project
+
+ * Get acquainted with ReactJS and Redux
+ * Understand father-child component relationships and dynamics
+ * Perceive dispatching actions and comprehend reducer functions
+ * Get a better grip on project structure and modularity 
+ * Understand **React Routing**
